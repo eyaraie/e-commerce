@@ -1,4 +1,4 @@
-# e-commerce
+# A real-life shopping web application using the latest technologies such as Java, Spring Boot, Hibernate
 
 # Technologies
 
@@ -24,7 +24,7 @@
 
 - Amazon S3 APIs
 
-##the Admin application module business logics: Users, Categories, Brands, Products, Customers, Shipping, Orders, Sales Report, Reviews, Questions, Settings.
+## the Admin application module business logics: Users, Categories, Brands, Products, Customers, Shipping, Orders, Sales Report, Reviews, Questions, Settings.
 
-##the Shopping application module business logics: categories listing, product details, search products, shopping cart, checkout, manage orders, tracking orders, customer registration.
+## the Shopping application module business logics: categories listing, product details, search products, shopping cart, checkout, manage orders, tracking orders, customer registration.
 
